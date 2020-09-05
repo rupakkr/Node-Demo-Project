@@ -9,7 +9,7 @@ Node demo project to manage tutorials, it contains two separate projects.
 ## Back End Project 
 ### Setup
 
-####Update the mongodb connection url in the db-coinf.js file
+Update the mongodb connection url in the db-coinf.js file
 
 Go inside the backend project root directory by using below command.
 ```bash
